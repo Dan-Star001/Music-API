@@ -24,7 +24,7 @@ const songs = [
         id: 4,
         songTitle: "Gratitude", 
         songArtist: "Anendlessocean", 
-        songUrl: "https://music.youtube.com/watch?v=49mF49MR_Es&si=RG2-y7gmF9vudmTc", 
+        songUrl: "https://res.cloudinary.com/dkgr6ea6l/video/upload/v1758038035/Anendlessocean_-_Gratitude_CeeNaija.com__wbgjr1.mp3", 
         artistImage: "https://lh3.googleusercontent.com/a4VstV3Qir0ccSNw2ogOEm3H-4ySrGhEm5MQ_WwwsgrTGSQ0bt3MT2RAwYFdBhhYa1cUVzj2yvrPWm7Y=w544-h544-l90-rj",
     },
     {
@@ -73,7 +73,7 @@ const songs = [
         id: 11,
         songTitle: "Juba", 
         songArtist: "Anendlessocean", 
-        songUrl: "https://music.youtube.com/watch?v=AaFsEVj2JrY&si=txGJVdHEj8c_xDLC", 
+        songUrl: "https://res.cloudinary.com/dkgr6ea6l/video/upload/v1758038065/Anendlessocean_-_Juba_CeeNaija.com__chg9cb.mp3", 
         artistImage: "https://lh3.googleusercontent.com/WZJg1smuyFXs3QYGsldRZIW-xQeX5LxyyClhWEU9pyMQ4bAWtd0hneuD9wCs6jir1yHD8eXQ8OLhe2NzXw=w544-h544-l90-rj",
         linkToDownload: ""
     },
@@ -102,7 +102,7 @@ const songs = [
         id: 15,
         songTitle: "Baba (Live)", 
         songArtist: "Dunsin Oyekan", 
-        songUrl: "https://music.youtube.com/watch?v=uiT9P3T4_dQ&si=WJkNt9e_HBxnWzAp", 
+        songUrl: "https://res.cloudinary.com/dkgr6ea6l/video/upload/v1758038111/Dunsin_Oyekan_-_Baba_CeeNaija.com__hqz5s9.mp3", 
         artistImage: "https://lh3.googleusercontent.com/eOCWrtMvbVts_aUMozUszqPdIoXmdElX3XfABE1SaESBy1GOxwCoMbwyMepEi4AaPFUvdTTRK5zpmIw=w544-h544-l90-rj"
     },
     {
